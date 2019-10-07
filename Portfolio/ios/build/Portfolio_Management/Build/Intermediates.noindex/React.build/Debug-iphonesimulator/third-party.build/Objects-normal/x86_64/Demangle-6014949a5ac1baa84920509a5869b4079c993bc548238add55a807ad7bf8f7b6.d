@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/rahmansabc/Documents/react-native-apps/Portfolio/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.cpp \
+  /Users/rahmansabc/Documents/react-native-apps/Portfolio/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.h \
+  /Users/rahmansabc/Documents/react-native-apps/Portfolio/node_modules/react-native/third-party/folly-2018.10.22.00/folly/FBString.h \
+  /Users/rahmansabc/Documents/react-native-apps/Portfolio/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Users/rahmansabc/Documents/react-native-apps/Portfolio/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Users/rahmansabc/Documents/react-native-apps/Portfolio/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Users/rahmansabc/Documents/react-native-apps/Portfolio/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Users/rahmansabc/Documents/react-native-apps/Portfolio/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Traits.h \
+  /Users/rahmansabc/Documents/react-native-apps/Portfolio/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/Hash.h \
+  /Users/rahmansabc/Documents/react-native-apps/Portfolio/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Utility.h \
+  /Users/rahmansabc/Documents/react-native-apps/Portfolio/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /Users/rahmansabc/Documents/react-native-apps/Portfolio/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /Users/rahmansabc/Documents/react-native-apps/Portfolio/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /Users/rahmansabc/Documents/react-native-apps/Portfolio/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV1.h \
+  /Users/rahmansabc/Documents/react-native-apps/Portfolio/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV2.h \
+  /Users/rahmansabc/Documents/react-native-apps/Portfolio/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /Users/rahmansabc/Documents/react-native-apps/Portfolio/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /Users/rahmansabc/Documents/react-native-apps/Portfolio/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Users/rahmansabc/Documents/react-native-apps/Portfolio/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /Users/rahmansabc/Documents/react-native-apps/Portfolio/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /Users/rahmansabc/Documents/react-native-apps/Portfolio/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/Malloc.h \
+  /Users/rahmansabc/Documents/react-native-apps/Portfolio/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/detail/MallocImpl.h \
+  /Users/rahmansabc/Documents/react-native-apps/Portfolio/node_modules/react-native/third-party/folly-2018.10.22.00/folly/detail/Demangle.h

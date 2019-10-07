@@ -1,0 +1,4 @@
+#Wed Sep 25 19:32:08 IST 2019
+base.0=/Users/rahmansabc/Documents/react-native-apps/Portfolio/android/app/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

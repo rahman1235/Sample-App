@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>169C5C4D-B4A1-4870-A19D-F583582CEFAB</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>169C5C4D-B4A1-4870-A19D-F583582CEFAB.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Portfolio_Management project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Portfolio_Management</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project Portfolio_Management with scheme Portfolio_Management and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>591621328.78370404</real>
+			<key>timeStoppedRecording</key>
+			<real>591621338.07289398</real>
+			<key>title</key>
+			<string>Building project Portfolio_Management with scheme Portfolio_Management and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>169C5C4D-B4A1-4870-A19D-F583582CEFAB</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
